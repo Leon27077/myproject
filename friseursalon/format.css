@@ -1,0 +1,27 @@
+h1	{
+		color:	blue;
+	}
+h2	{
+		color:	blue;
+	}
+body{	
+	background-color:	olive;
+	font-family:	Segoe Print;
+	
+	}
+p	{
+	text-align: center;
+	}
+h1	{
+	background-color:	silver;
+	}
+table	{
+		border: 1px solid black;
+		}
+table th 	{ 	
+			color: white;
+			}	
+table td	{
+			border: 1px solid black;
+			padding: 2px;
+			}
